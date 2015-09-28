@@ -1,5 +1,7 @@
 ##3.5 HTML Challenge Reflection
 
+[Jamar Gibbs github site](http://jsudo.github.io/)
+
 
 **What did you learn about CSS padding, borders, and margin by doing this challenge?**  
 
