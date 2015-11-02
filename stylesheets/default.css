@@ -1,14 +1,13 @@
 body {
-		background-image: url("../imgs/index.jpg");
 		font-family: Verdana;
 		font-size: 20px;
-		color: white;
+		color: purple;
 	}
 
 nav {
 		text-align:center;
-		margin: 7em 0% 4em 47%;
-		border-color: white;
+		margin: 2% 0% 2% 0;
+		border-color: purple;
 		font-family: Verdana;
 
 	}
@@ -18,28 +17,41 @@ nav {
 			font-family: helvetica;
 		}
 
-		h1{
+		.name{
+				font-weight:lighter;
+				font-family: helvetica;
 				font-size: 60px;
-				top: 10em;
+				margin: 40% 0% 20% 2%
+			}
+			.name1{
+				font-weight:lighter;
+				font-family: helvetica;
+				font-size: 60px;
+				margin: 40% 0% 0% 2%
+			}
+			.name2{
+				font-weight:lighter;
+				font-family: helvetica;
+				font-size: 60px;
+				margin: 10% 0% 10% 2%
 			}
 
 button {
-			width:10em;
-			background-color:transparent;
-			color:white;
+			width:20%;
+			background-color:white;
+			color: gray;
 			border:2em;
 			border-color:white;
-			font-size:80px;
+			font-size:30px;
 			font-weight: bolder;
 
 		}
+.img  {
+			margin: 2% 0% 0% 20%
 
-		.pics {
-					width:100px;
-					height:100px;
-				}
+		}
 
 	a:link {
 			text-decoration: none; 
-			color: white;
+			color: purple;
 		}
